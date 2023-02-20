@@ -76,5 +76,5 @@ class InvoicePrinter{
 
 }
 
-public class SingleResponsibility {
+public class SingleResponsibilityPrinciple {
 }
